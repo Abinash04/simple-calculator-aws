@@ -1,10 +1,15 @@
 .App {
   text-align: center;
+  background-color: #282c34;
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+
+.title {
+ color:white;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -35,4 +40,13 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.calculator-screen {
+  min-height: 30px;
+  min-width: 250px;
+}
+
+.calculator-keys {
+  min-height: 60px;
 }
