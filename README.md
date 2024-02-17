@@ -41,17 +41,18 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## User Interface
 
-<img width="1726" alt="image" src="https://github.com/Abinash04/simple-calculator-aws/assets/15240069/d0f5b5db-54f6-4238-b6c8-ddfd203f0df2">
+https://master.d2xemt3ykoq2ta.amplifyapp.com/
 
+<img width="1726" alt="image" src="https://github.com/Abinash04/simple-calculator-aws/assets/15240069/d0f5b5db-54f6-4238-b6c8-ddfd203f0df2">
 
 ## Architecture
 
 <img width="1341" alt="image" src="https://github.com/Abinash04/simple-calculator-aws/assets/15240069/b51d4a49-19eb-467e-a691-9b986022e532">
 
 ## API end point
+
 <img width="1518" alt="image" src="https://github.com/Abinash04/simple-calculator-aws/assets/15240069/4f2ff1be-b98b-4fd0-a6e9-f02cf2d9e8ad">
 
 ## DynamoDB table data
 
 <img width="1726" alt="image" src="https://github.com/Abinash04/simple-calculator-aws/assets/15240069/da5afc6d-49d4-4075-acb0-f38e14b26b94">
-
