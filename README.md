@@ -42,3 +42,6 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 ## Architecture
 
 <img width="1341" alt="image" src="https://github.com/Abinash04/simple-calculator-aws/assets/15240069/b51d4a49-19eb-467e-a691-9b986022e532">
+
+## API end point
+<img width="1518" alt="image" src="https://github.com/Abinash04/simple-calculator-aws/assets/15240069/4f2ff1be-b98b-4fd0-a6e9-f02cf2d9e8ad">
