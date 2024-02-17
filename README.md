@@ -39,6 +39,11 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
+## User Interface
+
+<img width="1726" alt="image" src="https://github.com/Abinash04/simple-calculator-aws/assets/15240069/d0f5b5db-54f6-4238-b6c8-ddfd203f0df2">
+
+
 ## Architecture
 
 <img width="1341" alt="image" src="https://github.com/Abinash04/simple-calculator-aws/assets/15240069/b51d4a49-19eb-467e-a691-9b986022e532">
