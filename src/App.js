@@ -24,7 +24,7 @@ function App() {
     "=",
   ];
   const AwsApiUrl =
-    "https://7f6t76fzih.execute-api.us-east-1.amazonaws.com/dev";
+    "https://3peca6a39g.execute-api.us-east-1.amazonaws.com/dev";
 
   const handleButtonPress = (val) => {
     if (val === "=") {
