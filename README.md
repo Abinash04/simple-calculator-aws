@@ -53,6 +53,10 @@ https://master.d2xemt3ykoq2ta.amplifyapp.com/
 
 <img width="1518" alt="image" src="https://github.com/Abinash04/simple-calculator-aws/assets/15240069/4f2ff1be-b98b-4fd0-a6e9-f02cf2d9e8ad">
 
+## Lamda function overview
+<img width="1083" alt="image" src="https://github.com/Abinash04/simple-calculator-aws/assets/15240069/6b918d62-0c21-4970-bc2c-a3c8f41c1c75">
+
+
 ## DynamoDB table data
 
 <img width="1726" alt="image" src="https://github.com/Abinash04/simple-calculator-aws/assets/15240069/da5afc6d-49d4-4075-acb0-f38e14b26b94">
